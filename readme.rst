@@ -1,5 +1,3 @@
-# LA-MUSIQUE
-
 ###################
 What is CodeIgniter
 ###################
